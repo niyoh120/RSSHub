@@ -840,6 +840,9 @@
     "/bilibili/user/followings/:uid/:loginUid": [
         "Qixingchen"
     ],
+    "/bilibili/user/like/:uid/:disableEmbed?": [
+        "ygguorun"
+    ],
     "/bilibili/user/video/:uid/:disableEmbed?": [
         "DIYgod"
     ],
@@ -4962,6 +4965,9 @@
         "real-jiakai"
     ],
     "/nku/jwc/:type?": [],
+    "/nlc/read/:type?": [
+        "nczitzk"
+    ],
     "/nltimes/news/:category?": [
         "Hivol"
     ],
