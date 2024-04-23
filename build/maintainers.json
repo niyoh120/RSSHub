@@ -73,6 +73,9 @@
   "/0818tuan/:listId?": [
     "TonyRL"
   ],
+  "/0x80/blog": [
+    "xnum"
+  ],
   "/141jav/{.*}?": [
     "cgkings",
     "nczitzk"
@@ -246,6 +249,9 @@
   "/abskoop/nsfw": [
     "zhenhappy"
   ],
+  "/accessbriefing/:category{.+}?": [
+    "nczitzk"
+  ],
   "/acfun/article/:categoryId/:sortType?/:timeRange?": [
     "TonyRL"
   ],
@@ -411,6 +417,9 @@
     "metowolf",
     "HenryQW",
     "kt286"
+  ],
+  "/apple/podcast/:id": [
+    "Acring"
   ],
   "/appleinsider/:category?": [
     "nczitzk"
@@ -817,6 +826,9 @@
   "/bnu/lib/:category?": [
     "TonyRL"
   ],
+  "/bnu/mba/:category{.+}?": [
+    "nczitzk"
+  ],
   "/boc/whpj/:format?": [
     "LogicJake",
     "HenryQW"
@@ -857,6 +869,9 @@
   ],
   "/bupt/rczp": [
     "nczitzk"
+  ],
+  "/byau/news/:type_id": [
+    "ueiu"
   ],
   "/byteclicks/": [
     "TonyRL"
@@ -1259,6 +1274,9 @@
     "marvolo666",
     "yan12125"
   ],
+  "/cpcaauto/news/:type?/:id?": [
+    "nczitzk"
+  ],
   "/cpcey/:type?": [
     "Fatpandac"
   ],
@@ -1431,6 +1449,9 @@
   "/deepmind/blog": [
     "nczitzk",
     "TonyRL"
+  ],
+  "/dehenglaw/:language?/:category?": [
+    "nczitzk"
   ],
   "/deltaio/blog": [
     "RengarLee"
@@ -1955,6 +1976,9 @@
   "/freewechat/profile/:id": [
     "TonyRL"
   ],
+  "/freexcomic/book/:id": [
+    "junfengP"
+  ],
   "/ft/:language/:channel?": [
     "HenryQW",
     "xyqfer"
@@ -2257,6 +2281,9 @@
   ],
   "/gov/jgjcndrc/:id?": [
     "nczitzk"
+  ],
+  "/gov/jiangsu/wlt/:page?": [
+    "GideonSenku"
   ],
   "/gov/jinan/healthcommission/medical_exam_notice": [
     "tzjyxb"
@@ -3369,11 +3396,13 @@
   ],
   "/lofter/tag/:name?/:type?": [
     "hoilc",
-    "nczitzk"
+    "nczitzk",
+    "LucunJi"
   ],
   "/lofter/user/:name?": [
     "hondajojo",
-    "nczitzk"
+    "nczitzk",
+    "LucunJi"
   ],
   "/logclub/:category{.+}?": [],
   "/logclub/lc_report/:id?": [
@@ -4691,6 +4720,9 @@
   "/samsung/research/blog": [
     "nczitzk"
   ],
+  "/sara/:type": [
+    "HChenZi"
+  ],
   "/saraba1st/digest/:tid": [
     "shinemoon"
   ],
@@ -5387,7 +5419,7 @@
   "/tesla/price": [
     "xiaokyo"
   ],
-  "/test/:id": [
+  "/test/:id/:params?": [
     "DIYgod",
     "NeverBehave"
   ],
@@ -6547,6 +6579,12 @@
   ],
   "/zrblog/": [
     "cnkmmk"
+  ],
+  "/zsxq/group/:id/:scope?": [
+    "KarasuShin"
+  ],
+  "/zsxq/user/:id": [
+    "KarasuShin"
   ],
   "/zuel/notice": [
     "nczitzk"
